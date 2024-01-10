@@ -1,0 +1,45 @@
+/* STYLE ARC DE SANT MARTÍ */
+
+.cambioColorROJO {color: black;}
+.cambioColorROJO:active {color:red}
+
+.cambioColorNARANJA {color: black;}
+.cambioColorNARANJA:active {color:rgb(255, 145, 0)}
+
+.cambioColorAMARILLO {color: black;}
+.cambioColorAMARILLO:active {color:rgb(197, 211, 2)}
+
+.cambioColorVERDE {color: black;}
+.cambioColorVERDE:active {color:rgb(25, 211, 0)}
+
+.cambioColorAZULCLARO {color: black;}
+.cambioColorAZULCLARO:active {color:rgb(0, 217, 255)}
+
+.cambioColorAZUL {color: black;}
+.cambioColorAZUL:active {color:rgb(0, 47, 255)}
+
+.cambioColorMORADO {color: black;}
+.cambioColorMORADO:active {color:rgb(111, 0, 255)}
+
+/* STYLE COLORES */
+
+.cambioColorRoj {color:black;}
+.cambioColorRoj:hover {color:rgb(255, 0, 0);}
+
+.cambioColorNar {color:black;}
+.cambioColorNar:hover {color:rgb(255, 136, 0);}
+
+.cambioColorAmar {color:black;}
+.cambioColorAmar:hover {color:rgb(214, 211, 4);}
+
+.cambioColorVer {color:black;}
+.cambioColorVer:hover {color:rgb(72, 255, 0);}
+
+.cambioColorAzuC {color:black;}
+.cambioColorAzuC:hover {color:rgb(37, 255, 255);}
+
+.cambioColorAzu {color:black;}
+.cambioColorAzu:hover {color:rgb(17, 53, 255);}
+
+.cambioColorMor {color:black;}
+.cambioColorMor:hover {color:rgb(132, 0, 255);}
